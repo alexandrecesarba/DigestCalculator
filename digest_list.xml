@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CATALOG>
+                        
+    
+    
+    
+    
+    <FILE_ENTRY>
+                                                
+        
+        
+        
+        
+        <FILE_NAME>Arquivo1.dat</FILE_NAME>
+                                                
+        
+        
+        
+        
+        <DIGEST_ENTRY>
+                                                                        
+            
+            
+            
+            
+            <DIGEST_TYPE>SHA1</DIGEST_TYPE>
+                                                                        
+            
+            
+            
+            
+            <DIGEST_HEX>8d901bb3a2840ac030f7dbdd7cb823808858cb2f</DIGEST_HEX>
+                                                                    
+        
+        
+        
+        
+        </DIGEST_ENTRY>
+                                                
+        
+        
+        
+        
+        <DIGEST_ENTRY>
+                                                                        
+            
+            
+            
+            
+            <DIGEST_TYPE>MD5</DIGEST_TYPE>
+                                                                        
+            
+            
+            
+            
+            <DIGEST_HEX>42b83991bd1b47b373074111c34fb428</DIGEST_HEX>
+                                                                    
+        
+        
+        
+        
+        </DIGEST_ENTRY>
+                                            
+    
+    
+    
+    
+    </FILE_ENTRY>
+                        
+    
+    
+    
+    
+    <FILE_ENTRY>
+                                                
+        
+        
+        
+        
+        <FILE_NAME>Arquivo2.dat</FILE_NAME>
+                                                
+        
+        
+        
+        
+        <DIGEST_ENTRY>
+                                                                        
+            
+            
+            
+            
+            <DIGEST_TYPE>SHA256</DIGEST_TYPE>
+                                                                        
+            
+            
+            
+            
+            <DIGEST_HEX>c8db093d264aa744d178470ad97aa64e67e84ab96e3b3310fb6f0eda429e6622</DIGEST_HEX>
+                                                                    
+        
+        
+        
+        
+        </DIGEST_ENTRY>
+                                            
+    
+    
+    
+    
+    </FILE_ENTRY>
+                            
+    
+    
+    
+    
+    <FILE_ENTRY>
+                                                
+        
+        
+        
+        
+        <FILE_NAME>Arquivo3.dat</FILE_NAME>
+                                                
+        
+        
+        
+        
+        <DIGEST_ENTRY>
+                                                                        
+            
+            
+            
+            
+            <DIGEST_TYPE>SHA256</DIGEST_TYPE>
+                                                                        
+            
+            
+            
+            
+            <DIGEST_HEX>c8db093d264aa744d178470ad97aa64e67e84ab96e3b3310fb6f0eda429e6728</DIGEST_HEX>
+                                                                    
+        
+        
+        
+        
+        </DIGEST_ENTRY>
+                                            
+    
+    
+    
+    
+    </FILE_ENTRY>
+                    
+    
+    
+    
+    
+    <FILE_ENTRY>
+                                        
+        
+        
+        
+        <FILE_NAME>arquivo1.dat</FILE_NAME>
+                                        
+        
+        
+        
+        <DIGEST_ENTRY>
+                                                            
+            
+            
+            
+            <DIGEST_TYPE>SHA256</DIGEST_TYPE>
+                                                            
+            
+            
+            
+            <DIGEST_HEX>b4c6ad560bdc1857dd1316ffb84a6e25cd8b099f8c2bb89e19d799ceff25eb4b</DIGEST_HEX>
+                                                        
+        
+        
+        
+        </DIGEST_ENTRY>
+                                    
+    
+        
+        
+        <DIGEST_ENTRY>
+                                    
+            
+            <DIGEST_TYPE>SHA1</DIGEST_TYPE>
+                                    
+            
+            <DIGEST_HEX>c7793fe6b2a04917666192072f30965e4b2db7f2</DIGEST_HEX>
+                                
+        
+        </DIGEST_ENTRY>
+                    
+        
+        <DIGEST_ENTRY>
+                        
+            <DIGEST_TYPE>MD5</DIGEST_TYPE>
+                        
+            <DIGEST_HEX>40c875afc8e19ba8d64ceac5ee8c7aa0</DIGEST_HEX>
+                    
+        </DIGEST_ENTRY>
+            
+    </FILE_ENTRY>
+                
+
+
+
+</CATALOG>
